@@ -8,24 +8,31 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/jrpp/.nuget/packages/": {}
+    "C:\\Users\\jraby\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/MathGame.csproj",
+      "projectUniqueName": "F:\\developement\\csharp\\Nueva carpeta\\MathGame.csproj",
       "projectName": "MathGame",
-      "projectPath": "/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/MathGame.csproj",
-      "packagesPath": "/home/jrpp/.nuget/packages/",
-      "outputPath": "/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/obj/",
+      "projectPath": "F:\\developement\\csharp\\Nueva carpeta\\MathGame.csproj",
+      "packagesPath": "C:\\Users\\jraby\\.nuget\\packages\\",
+      "outputPath": "F:\\developement\\csharp\\Nueva carpeta\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/jrpp/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jraby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

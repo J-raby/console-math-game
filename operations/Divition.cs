@@ -30,4 +30,9 @@ public class Division : IOperation
         operands.Add(_secondNumber);
         return operands;
     }
+
+    public string ShowOperation()
+    {
+        return $"{_firstNumber} / {_secondNumber}";
+    }
 }
