@@ -1,12 +1,22 @@
-﻿using MatchGame.operations;
+﻿using MathGame.operations;
 using MathGame.games;
-using System.Timers;
-
 public class Program
 {
-    private List<Game> games;
-    public static void Main()
+    static void Main(string[] args)
     {
+        while (true)
+        {
+            Console.Clear();
+Console.WriteLine("  __   __  _______  _______  __   __  _______  _______  __   __  _______  ");
+Console.WriteLine(" |  |_|  ||   _   ||       ||  | |  ||       ||   _   ||  |_|  ||       | ");
+Console.WriteLine(" |       ||  |_|  ||_     _||  |_|  ||    ___||  |_|  ||       ||    ___| ");
+Console.WriteLine(" |       ||       |  |   |  |       ||   | __ |       ||       ||   |___  ");
+Console.WriteLine(" |       ||       |  |   |  |       ||   ||  ||       ||       ||    ___| ");
+Console.WriteLine(" | ||_|| ||   _   |  |   |  |   _   ||   |_| ||   _   || ||_|| ||   |___  ");
+Console.WriteLine(" |_|   |_||__| |__|  |___|  |__| |__||_______||__| |__||_|   |_||_______| ");
+
+
+        Console.WriteLine("=====================================");
         Console.WriteLine("Wellcome To the Math Game\n");
         Console.WriteLine("Select an operation:");
         Console.WriteLine("1. Addition");
@@ -55,4 +65,5 @@ public class Program
 
         Console.WriteLine("Countdown complete!");
     }
+}
 }

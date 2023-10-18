@@ -1,6 +1,7 @@
-namespace MatchGame.operations;
+namespace MathGame.operations;
 
 abstract class Creator{
     public abstract IOperation FactoryMethod();
+    
 
 }

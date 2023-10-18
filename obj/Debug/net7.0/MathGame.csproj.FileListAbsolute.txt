@@ -1,14 +1,29 @@
-F:\developement\csharp\Nueva carpeta\bin\Debug\net7.0\MathGame.exe
-F:\developement\csharp\Nueva carpeta\bin\Debug\net7.0\MathGame.deps.json
-F:\developement\csharp\Nueva carpeta\bin\Debug\net7.0\MathGame.runtimeconfig.json
-F:\developement\csharp\Nueva carpeta\bin\Debug\net7.0\MathGame.dll
-F:\developement\csharp\Nueva carpeta\bin\Debug\net7.0\MathGame.pdb
-F:\developement\csharp\Nueva carpeta\obj\Debug\net7.0\MathGame.GeneratedMSBuildEditorConfig.editorconfig
-F:\developement\csharp\Nueva carpeta\obj\Debug\net7.0\MathGame.AssemblyInfoInputs.cache
-F:\developement\csharp\Nueva carpeta\obj\Debug\net7.0\MathGame.AssemblyInfo.cs
-F:\developement\csharp\Nueva carpeta\obj\Debug\net7.0\MathGame.csproj.CoreCompileInputs.cache
-F:\developement\csharp\Nueva carpeta\obj\Debug\net7.0\MathGame.dll
-F:\developement\csharp\Nueva carpeta\obj\Debug\net7.0\refint\MathGame.dll
-F:\developement\csharp\Nueva carpeta\obj\Debug\net7.0\MathGame.pdb
-F:\developement\csharp\Nueva carpeta\obj\Debug\net7.0\MathGame.genruntimeconfig.cache
-F:\developement\csharp\Nueva carpeta\obj\Debug\net7.0\ref\MathGame.dll
+F:/developement/csharp/Nueva carpeta/bin/Debug/net7.0/MathGame.exe
+F:/developement/csharp/Nueva carpeta/bin/Debug/net7.0/MathGame.deps.json
+F:/developement/csharp/Nueva carpeta/bin/Debug/net7.0/MathGame.runtimeconfig.json
+F:/developement/csharp/Nueva carpeta/bin/Debug/net7.0/MathGame.dll
+F:/developement/csharp/Nueva carpeta/bin/Debug/net7.0/MathGame.pdb
+F:/developement/csharp/Nueva carpeta/obj/Debug/net7.0/MathGame.GeneratedMSBuildEditorConfig.editorconfig
+F:/developement/csharp/Nueva carpeta/obj/Debug/net7.0/MathGame.AssemblyInfoInputs.cache
+F:/developement/csharp/Nueva carpeta/obj/Debug/net7.0/MathGame.AssemblyInfo.cs
+F:/developement/csharp/Nueva carpeta/obj/Debug/net7.0/MathGame.csproj.CoreCompileInputs.cache
+F:/developement/csharp/Nueva carpeta/obj/Debug/net7.0/MathGame.dll
+F:/developement/csharp/Nueva carpeta/obj/Debug/net7.0/refint/MathGame.dll
+F:/developement/csharp/Nueva carpeta/obj/Debug/net7.0/MathGame.pdb
+F:/developement/csharp/Nueva carpeta/obj/Debug/net7.0/MathGame.genruntimeconfig.cache
+F:/developement/csharp/Nueva carpeta/obj/Debug/net7.0/ref/MathGame.dll
+/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/obj/Debug/net7.0/MathGame.csproj.AssemblyReference.cache
+/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/obj/Debug/net7.0/MathGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/obj/Debug/net7.0/MathGame.AssemblyInfoInputs.cache
+/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/obj/Debug/net7.0/MathGame.AssemblyInfo.cs
+/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/obj/Debug/net7.0/MathGame.csproj.CoreCompileInputs.cache
+/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/obj/Debug/net7.0/MathGame.dll
+/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/obj/Debug/net7.0/refint/MathGame.dll
+/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/obj/Debug/net7.0/MathGame.pdb
+/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/bin/Debug/net7.0/MathGame
+/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/bin/Debug/net7.0/MathGame.deps.json
+/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/bin/Debug/net7.0/MathGame.runtimeconfig.json
+/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/bin/Debug/net7.0/MathGame.dll
+/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/bin/Debug/net7.0/MathGame.pdb
+/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/obj/Debug/net7.0/MathGame.genruntimeconfig.cache
+/home/jraby/develop/csharp/csharp-academy/console-apps/MathGame/obj/Debug/net7.0/ref/MathGame.dll

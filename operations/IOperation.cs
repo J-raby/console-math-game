@@ -1,4 +1,4 @@
-namespace MatchGame.operations;
+namespace MathGame.operations;
 public interface IOperation
 {
     public int GetResult();

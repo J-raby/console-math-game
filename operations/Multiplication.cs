@@ -1,5 +1,5 @@
 
-namespace MatchGame.operations;
+namespace MathGame.operations;
 
 public class Multiplication : IOperation
 {
@@ -9,8 +9,8 @@ public class Multiplication : IOperation
     private int _secondNumber;
     public Multiplication(){
         Random randomGenerator = new();
-         _firstNumber = randomGenerator.Next(0, 1000);
-         _secondNumber = randomGenerator.Next(0, 1000);
+         _firstNumber = randomGenerator.Next(0, 100);
+         _secondNumber = randomGenerator.Next(0, 100);
         _result = _firstNumber * _secondNumber;
     }
 
@@ -27,8 +27,8 @@ public class Multiplication : IOperation
         return operands;
     }
 
-    public string ShowOperation()
-    {
+
+    public string ShowOperation(){
         return $"{_firstNumber} * {_secondNumber}";
     }
 }

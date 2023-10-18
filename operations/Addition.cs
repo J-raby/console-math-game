@@ -1,4 +1,5 @@
-namespace MatchGame.operations;
+
+namespace MathGame.operations;
 
 public class Addition : IOperation
 {
@@ -8,8 +9,8 @@ public class Addition : IOperation
     private int _secondNumber;
     public Addition(){
         Random randomGenerator = new();
-         _firstNumber = randomGenerator.Next(0, 1000);
-         _secondNumber = randomGenerator.Next(0, 1000);
+         _firstNumber = randomGenerator.Next(0, 100);
+         _secondNumber = randomGenerator.Next(0, 100);
         _result = _firstNumber + _secondNumber;
     }
 
@@ -26,8 +27,7 @@ public class Addition : IOperation
         return operands;
     }
 
-    public string ShowOperation()
-    {
+    public string ShowOperation(){
         return $"{_firstNumber} + {_secondNumber}";
     }
 }

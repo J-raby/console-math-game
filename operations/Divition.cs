@@ -1,5 +1,5 @@
 
-namespace MatchGame.operations;
+namespace MathGame.operations;
 
 public class Division : IOperation
 {
@@ -9,11 +9,11 @@ public class Division : IOperation
     private int _secondNumber;
     public Division(){
         Random randomGenerator = new();
-         _firstNumber = randomGenerator.Next(0, 1000);
-         _secondNumber = randomGenerator.Next(0, 1000);
+         _firstNumber = randomGenerator.Next(0, 100);
+         _secondNumber = randomGenerator.Next(0, 100);
         while((_firstNumber % _secondNumber) != 0){
-            _firstNumber = randomGenerator.Next(0, 1000);
-            _secondNumber = randomGenerator.Next(0, 1000);
+            _firstNumber = randomGenerator.Next(0, 100);
+            _secondNumber = randomGenerator.Next(0, 100);
         }
         _result = _firstNumber / _secondNumber;
     }
@@ -31,8 +31,8 @@ public class Division : IOperation
         return operands;
     }
 
-    public string ShowOperation()
-    {
+
+    public string ShowOperation(){
         return $"{_firstNumber} / {_secondNumber}";
     }
 }

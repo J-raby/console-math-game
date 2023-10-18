@@ -1,5 +1,5 @@
 
-namespace MatchGame.operations;
+namespace MathGame.operations;
 
 public class Substraction : IOperation
 {
@@ -31,8 +31,9 @@ public class Substraction : IOperation
         return operands;
     }
 
-    public string ShowOperation()
-    {
+
+    public string ShowOperation(){
         return $"{_firstNumber} - {_secondNumber}";
     }
+
 }

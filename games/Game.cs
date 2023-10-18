@@ -1,4 +1,4 @@
-using MatchGame.operations;
+using MathGame.operations;
 
 namespace MathGame.games;
 
